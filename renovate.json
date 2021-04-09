@@ -10,7 +10,7 @@
     {
       "fileMatch": ["^Dockerfile$"],
       "matchStrings": [
-        "FROM\\s+(?<depName>.*?):(?<currentValue>.*?)"
+        "FROM\\s+(?<depName>.*?):(?<currentValue>[0-9.]+)"
       ],
       "datasourceTemplate": "docker"
     }
