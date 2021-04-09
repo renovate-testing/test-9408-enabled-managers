@@ -1,3 +1,3 @@
 dependencies {
-  implementation("ch.qos.logback:logback-classic:1.2.0")
+  implementation("ch.qos.logback:logback-classic:1.2.3")
 }
