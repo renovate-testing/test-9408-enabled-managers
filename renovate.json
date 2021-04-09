@@ -1,5 +1,5 @@
 {
-  "enabledManagers": ["gradle-lite"],
+  "enabledManagers": ["gradle-lite", "regex"],
   "gradle-lite": {
     "enabled": false
   },
